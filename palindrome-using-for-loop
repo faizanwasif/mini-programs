@@ -1,0 +1,12 @@
+def pal(word1):
+    for i in word2:
+        if word2 == word3:
+            print("yes")
+        else:
+            print("no")
+            
+word1 = input("")
+word2 = []
+word3 = [word1 [::-1]]
+word2.append(word1) 
+pal(word1)
